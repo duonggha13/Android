@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TourNote</string>
+    <string name="empty_note">Bạn chưa có ghi chú nào, hãy tạo mới ghi chú!</string>
+</resources>
