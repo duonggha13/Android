@@ -1,3 +1,3 @@
 # My Android Application
-+ 1
-+ 2
+- 1
+- 2
